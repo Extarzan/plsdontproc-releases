@@ -1,0 +1,12 @@
+{
+  "payload": {
+    "schema": 1,
+    "edition": "free",
+    "version": "0.0.1",
+    "url": "https://github.com/Extarzan/plsdontproc-releases/releases/download/free-v0.0.1/plsDontProc-0.0.1-Setup.exe",
+    "sha256": "b3ddcbe7406df58c51e631283954cf9f15d816f6a036ef93c261d350d3b2a30a",
+    "size": 111435861,
+    "notes": "First public Windows release of plsDontProc.\n\n- Import your Summoners War JSON and work offline.\n- Browse runes, create and edit teams, and search for builds.\n- Updated monster stats, leader skills, damage, healing and shield skills.\n- Optional automatic update checks, disabled by default.\n\nDownload and run `plsDontProc-0.0.1-Setup.exe` on Windows x64. Account data and saved teams stay on your computer.\n\nSupport and feedback: https://discord.gg/xUzy8t7Pj\n\nFree to use under this repository's license. The application and its source code remain proprietary to Extarzan. Summoners War artwork and characters belong to Com2uS; this fan project is not affiliated with or endorsed by Com2uS.\n"
+  },
+  "signature": "xLx32DX2c3ZA5DsNy2+7j0FFoClHTdTeRPxDXPepHzsOSjSkE+rfdvyEZ9Z6CPGHl8mR6+JpgFtZIFgJkkEtBQ=="
+}
