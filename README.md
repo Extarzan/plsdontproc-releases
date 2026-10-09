@@ -3,7 +3,7 @@
 Official Windows installers for **plsDontProc**.
 
 Download published installers from [Releases](https://github.com/Extarzan/plsdontproc-releases/releases).
-The first public installer has not been published yet.
+Download [plsDontProc 0.0.1 for Windows x64](https://github.com/Extarzan/plsdontproc-releases/releases/download/free-v0.0.1/plsDontProc-0.0.1-Setup.exe).
 
 You can check for updates manually or enable **Auto update**, which is **off by default**.
 When a new version is available, the app shows an update notification.
