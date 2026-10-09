@@ -1,4 +1,4 @@
-# plsDontProc downloads
+# plsDontProc Downloads
 
 Official Windows installers for **plsDontProc**.
 
