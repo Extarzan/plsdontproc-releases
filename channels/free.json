@@ -2,11 +2,11 @@
   "payload": {
     "schema": 1,
     "edition": "free",
-    "version": "0.0.1",
-    "url": "https://github.com/Extarzan/plsdontproc-releases/releases/download/free-v0.0.1/plsDontProc-0.0.1-Setup.exe",
-    "sha256": "b3ddcbe7406df58c51e631283954cf9f15d816f6a036ef93c261d350d3b2a30a",
-    "size": 111435861,
-    "notes": "First public Windows release of plsDontProc.\n\n- Import your Summoners War JSON and work offline.\n- Browse runes, create and edit teams, and search for builds.\n- Updated monster stats, leader skills, damage, healing and shield skills.\n- Optional automatic update checks, disabled by default.\n\nDownload and run `plsDontProc-0.0.1-Setup.exe` on Windows x64. Account data and saved teams stay on your computer.\n\nSupport and feedback: https://discord.gg/xUzy8t7Pj\n\nFree to use under this repository's license. The application and its source code remain proprietary to Extarzan. Summoners War artwork and characters belong to Com2uS; this fan project is not affiliated with or endorsed by Com2uS.\n"
+    "version": "0.0.2",
+    "url": "https://github.com/Extarzan/plsdontproc-releases/releases/download/free-v0.0.2/plsDontProc-0.0.2-Setup.exe",
+    "sha256": "76df927c052ae72e74a9dbcf1c7eef90b1284d5b9f1defcce264cbfa0393cdb8",
+    "size": 111527931,
+    "notes": "RTA is now included in plsDontProc, with saved configurations linked to each monster's name and ID.\n\n- Choose whether ally set bonuses count toward search filters. Team Builder enables this by default; RTA requires each monster to meet its own filters by default.\n- Open Help directly from the Team Builder and RTA headers, with dedicated guides and an explanation of optimization priorities.\n- Updated \"I don't trust this app\" information explains local SWEX processing, offline use, and optional file obfuscation. The MIT license applies only to the separate privacy scripts, not the application.\n- The standalone privacy tools now use the chosen account name for JSON copies, handle battle/conversion events correctly, and skip obsolete FullLogger history when starting synchronization. Updated scripts: https://github.com/Extarzan/plsDontProc-Scripts\n- Updated Patreon link and clearer update controls.\n\nAccount data and saved configurations are preserved when updating.\n"
   },
-  "signature": "xLx32DX2c3ZA5DsNy2+7j0FFoClHTdTeRPxDXPepHzsOSjSkE+rfdvyEZ9Z6CPGHl8mR6+JpgFtZIFgJkkEtBQ=="
+  "signature": "YFq+VIWZ4Xn22Gal3TO9Ex12eUx6MXqErd5q23Llt89XyGzggMKx6yp5SfmNocpTkH2yBYvNDo+9WjsWD1e+Bw=="
 }
