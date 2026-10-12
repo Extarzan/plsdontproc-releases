@@ -2,11 +2,11 @@
   "payload": {
     "schema": 1,
     "edition": "free",
-    "version": "0.0.2",
-    "url": "https://github.com/Extarzan/plsdontproc-releases/releases/download/free-v0.0.2/plsDontProc-0.0.2-Setup.exe",
-    "sha256": "76df927c052ae72e74a9dbcf1c7eef90b1284d5b9f1defcce264cbfa0393cdb8",
-    "size": 111527931,
-    "notes": "RTA is now included in plsDontProc, with saved configurations linked to each monster's name and ID.\n\n- Choose whether ally set bonuses count toward search filters. Team Builder enables this by default; RTA requires each monster to meet its own filters by default.\n- Open Help directly from the Team Builder and RTA headers, with dedicated guides and an explanation of optimization priorities.\n- Updated \"I don't trust this app\" information explains local SWEX processing, offline use, and optional file obfuscation. The MIT license applies only to the separate privacy scripts, not the application.\n- The standalone privacy tools now use the chosen account name for JSON copies, handle battle/conversion events correctly, and skip obsolete FullLogger history when starting synchronization. Updated scripts: https://github.com/Extarzan/plsDontProc-Scripts\n- Updated Patreon link and clearer update controls.\n\nAccount data and saved configurations are preserved when updating.\n"
+    "version": "0.0.3",
+    "url": "https://github.com/Extarzan/plsdontproc-releases/releases/download/free-v0.0.3/plsDontProc-0.0.3-Setup.exe",
+    "sha256": "4bc18207d7b58605287af5204af7fec1702a50698ee359499c76ffb84cd69d63",
+    "size": 111587166,
+    "notes": "plsDontProc 0.0.3\n\n- Corrigida a sincroniza\u00e7\u00e3o de runas e artefatos ap\u00f3s trocar o equipamento dos monstros no jogo. Trocas recentes que haviam sido ignoradas s\u00e3o recuperadas do log dispon\u00edvel.\n- A lista de runas equipadas busca os dados atuais ao ser aberta, preservando a configura\u00e7\u00e3o do time.\n- Times podem ser renomeados clicando no nome. Identificadores de monstros vinculados no RTA permanecem protegidos.\n- A exibi\u00e7\u00e3o de Accuracy agora mostra o valor atingido at\u00e9 100%.\n- Corrigido o efeito visual que podia deixar o card de um monstro apagado ap\u00f3s arrastar seu retrato.\n- Corrigidos arredondamentos do score de runas e a recupera\u00e7\u00e3o da sincroniza\u00e7\u00e3o ap\u00f3s a troca do arquivo FullLogger.\n\nAs configura\u00e7\u00f5es e os dados da conta continuam armazenados localmente.\n"
   },
-  "signature": "YFq+VIWZ4Xn22Gal3TO9Ex12eUx6MXqErd5q23Llt89XyGzggMKx6yp5SfmNocpTkH2yBYvNDo+9WjsWD1e+Bw=="
+  "signature": "tC3pOwQIJFvx8WLQdYP4j0I0YP8xZxqiTedn7+/p4Y+nyP+8S7yZZqVPFXpYqNNd3SjjeeACAWMWh8KUNGr7Cw=="
 }
