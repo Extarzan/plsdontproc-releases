@@ -2,11 +2,11 @@
   "payload": {
     "schema": 1,
     "edition": "free",
-    "version": "0.0.3",
-    "url": "https://github.com/Extarzan/plsdontproc-releases/releases/download/free-v0.0.3/plsDontProc-0.0.3-Setup.exe",
-    "sha256": "4bc18207d7b58605287af5204af7fec1702a50698ee359499c76ffb84cd69d63",
-    "size": 111587166,
-    "notes": ""
+    "version": "0.0.4",
+    "url": "https://github.com/Extarzan/plsdontproc-releases/releases/download/free-v0.0.4/plsDontProc-0.0.4-Setup.exe",
+    "sha256": "bfe4b7fff22d98c4802f71372e06f8214bcf2134ea4a78adc1c5d828d965559d",
+    "size": 111585398,
+    "notes": "Nova vers\u00e3o dispon\u00edvel: plsDontProc 0.0.4.\n"
   },
-  "signature": "iT2WIPFlNVjVKNg7QAanYnTf+m+KwOY2T8EH8kpnBFjVuVtUo9ErknP+5E6CvL/mfOIeyFYV4jILxtafcpx1BA=="
+  "signature": "09IkL5SU+aNRaDb82xDaBpXMOl6iXuofHBmU6yeNEgy5EEEeKbWg9bkSlUXiAWcXYZjZEiJ2KEKvnxXOxd0WBQ=="
 }
