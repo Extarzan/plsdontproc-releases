@@ -2,11 +2,11 @@
   "payload": {
     "schema": 1,
     "edition": "free",
-    "version": "0.0.4",
-    "url": "https://github.com/Extarzan/plsdontproc-releases/releases/download/free-v0.0.4/plsDontProc-0.0.4-Setup.exe",
-    "sha256": "bfe4b7fff22d98c4802f71372e06f8214bcf2134ea4a78adc1c5d828d965559d",
-    "size": 111585398,
-    "notes": "Nova vers\u00e3o dispon\u00edvel: plsDontProc 0.0.4.\n"
+    "version": "0.0.5",
+    "url": "https://github.com/Extarzan/plsdontproc-releases/releases/download/free-v0.0.5/plsDontProc-0.0.5-Setup.exe",
+    "sha256": "03d6ba02b91e847b651c0d657109c45427469bc1106b2c132ca44a2f5d9fc1a7",
+    "size": 111505952,
+    "notes": "plsDontProc 0.0.5\n\n- Corrigido o arredondamento do Rune Score, incluindo os casos conferidos de 90, 73, 98, 128 e 133 pontos.\n- Corrigido o c\u00e1lculo da velocidade em combate ao combinar os b\u00f4nus de SPD do l\u00edder e do invocador. A busca e os filtros usam o mesmo resultado.\n- A sincroniza\u00e7\u00e3o com o Exporter agora inclui runas resgatadas da caixa de entrada e recompensas di\u00e1rias, inclusive pacotes com v\u00e1rias runas.\n- Recupera\u00e7\u00e3o das runas ausentes nos eventos dispon\u00edveis do log, preservando vendas, upgrades, equipamentos e materiais.\n- \u00cdcone pr\u00f3prio para Broken e \u00edcones de conjuntos compartilhados nos resultados.\n\nAs contas, equipes e configura\u00e7\u00f5es salvas s\u00e3o preservadas na atualiza\u00e7\u00e3o.\n"
   },
-  "signature": "09IkL5SU+aNRaDb82xDaBpXMOl6iXuofHBmU6yeNEgy5EEEeKbWg9bkSlUXiAWcXYZjZEiJ2KEKvnxXOxd0WBQ=="
+  "signature": "+QBVNiFbdk9oJ+nU0abr2KpW+DvexuQguUkv4ncv8Q091ob/LAPUDzUTS1vDvJdg3x9GDO1DeJliWtEdNaq/AA=="
 }
