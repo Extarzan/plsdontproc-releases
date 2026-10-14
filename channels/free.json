@@ -1,0 +1,12 @@
+{
+  "payload": {
+    "schema": 1,
+    "edition": "free",
+    "version": "0.0.1",
+    "url": "https://github.com/Extarzan/plsdontproc-releases/releases/download/free-v0.0.1/plsDontProc-0.0.1-Setup.exe",
+    "sha256": "126d0db66f2b6d28a102605917ab0b51fb0fe0a6af0966b1aa189a3cbb8af1df",
+    "size": 101804969,
+    "notes": "plsDontProc 0.0.1\n\n- Novo pacote com o aplicativo em um \u00fanico execut\u00e1vel: c\u00f3digo nativo, JavaScript ofuscado e recursos da interface e cat\u00e1logos embutidos.\n- HTML, CSS, imagens, fontes e dados do aplicativo s\u00e3o carregados da mem\u00f3ria, sem arquivos separados na instala\u00e7\u00e3o.\n- Inclui as corre\u00e7\u00f5es de Rune Score, velocidade em combate e sincroniza\u00e7\u00e3o de runas, al\u00e9m das melhorias de equipes e atualiza\u00e7\u00f5es.\n\nEsta publica\u00e7\u00e3o reinicia a numera\u00e7\u00e3o. Quem usava qualquer release anterior deve instalar esta vers\u00e3o manualmente. As contas e configura\u00e7\u00f5es salvas s\u00e3o preservadas.\n"
+  },
+  "signature": "KjUoCsA9jrT5GUohcL+s2M1tPM2L8y4B9yujkqLymkc8iPrUH6wilf1FyUuq9D6nolI+zSOfoDw+j9w2JZNzAw=="
+}
